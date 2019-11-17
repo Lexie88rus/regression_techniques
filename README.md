@@ -1,4 +1,4 @@
-# regression_techniques
+# Regression Techniques
 Repository containing special techniques for regression analysis
 
 ## Contents
