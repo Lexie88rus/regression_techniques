@@ -1,8 +1,8 @@
 # Regression Techniques
-Repository containing special techniques for regression analysis
+Repository containing special techniques for regression analysis.
 
 ## Contents
-1. Demo of [SmoteR](https://core.ac.uk/download/pdf/29202178.pdf) algorithm for addressing extreme rare samples in regression.
+1. Demo of [SmoteR](https://core.ac.uk/download/pdf/29202178.pdf) algorithm for addressing extreme rare samples in regression. Play with the code [in Kaggle notebook](https://www.kaggle.com/aleksandradeis/regression-addressing-extreme-rare-cases).
 
 ## References and Further Reading:
 1. [SmoteR paper](https://core.ac.uk/download/pdf/29202178.pdf)
